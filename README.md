@@ -111,7 +111,8 @@ verifier('charger_asset("canape")', {"bureau_metal", "lampe_bureau"})
 
 - Module précédent : **Un widget de suivi dans la conversation** —
   [clic-par-clic-integration-03-widget-suivi](https://github.com/guilhem-/clic-par-clic-integration-03-widget-suivi).
-- Module suivant : **Un bouton sous chaque réponse : une fonction Action**.
+- Module suivant : **Un bouton sous chaque réponse : une fonction Action** —
+  [clic-par-clic-integration-05-fonction-action](https://github.com/guilhem-/clic-par-clic-integration-05-fonction-action).
 - Construire le studio : série « Créer un service d'IA compatible agentique : le studio 3D »
   (dépôts `clic-par-clic-studio3d-01` à `06`).
 
